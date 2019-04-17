@@ -6,3 +6,4 @@
 /src/obj
 /tests/obj
 /tests/bin/Debug/netcoreapp2.1
+/.vs
